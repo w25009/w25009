@@ -1,16 +1,32 @@
-## Hi there 👋
+## こんにちは　サインラインモーです.👋
 
-<!--
-**w25009/w25009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+現在、専門学校沖縄ビジネス外語学院で Web プログラミングを学んでいる 2 年生です。
+バックエンド開発に強い関心があり、お客様の課題を直接解決できるフルスタックエンジニアを目指しています。
 
-Here are some ideas to get you started:
+### 自己紹介
+- **教育:** 沖縄ビジネス外語学院 Web プログラミングコース 2 年生 (2027年3月卒業見込み)
+- **技術的関心:** Java や PHP を用いたバックエンド開発、データベース設計
+- **言語能力:** 日本語能力試験 (JLPT) N1 取得
+- **趣味:**　継続的な学習と筋トレ（目標に向かって継続的に努力することが得意です）
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###　現在取り組んでいること
+- 実践的な日本語コミュニケーション能力の向上。
+- JAVAを用いたオブジェクト指向プログラミングの実践。保守性の高いコードを書けるよう、デザインパターンや効率的な
+  ロジックの組み方。
+- チームでのプロジェクト開発
+- 将来的には、クラウド技術、特にAWSを学びたいです。現代のシステム開発においてクラウドの知識は不可欠だと考えています。
+
+### スキルセット
+- **言語:**  HTML, CSS, Java, PHP, SQL, Next.JS
+- **バックエンド:** Java, PHP(Laravel), MySQL 
+- **ツール:** GitHub, VS Code
+- **資格:** JLPT N1, Java SE Bronze,TOEIC 820点,CompTIA Tech+
+
+### プロジェクト
+- 結婚式の予約、管理システム
+- 車の販売　WEBサイト
+- ピーザ注文管理システム
+
+### 📫 連絡先 (Contact)
+- **Email:** [saihlaingmoe11@gmail.com]
+- **Phone:** 070-9001-6918
