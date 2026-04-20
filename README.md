@@ -24,9 +24,7 @@
 - **資格:** JLPT N1, Java SE Bronze,TOEIC 820点,CompTIA Tech+
 
 ### プロジェクト
-- 結婚式の予約、管理システム
-- 車の販売　WEBサイト
-- ピーザ注文管理システム
+https://github.com/w25009/Fitness-website
 
 ### 📫 連絡先 (Contact)
 - **Email:** [saihlaingmoe11@gmail.com]
